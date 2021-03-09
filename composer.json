@@ -1,5 +1,5 @@
 {
-    "name": "cms/post",
+    "name": "ditcms/post",
     "description": "Simple CMS Laravel",
     "type": "project",
     "license": "MIT",
