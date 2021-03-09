@@ -1,0 +1,22 @@
+{
+    "name": "cms/post",
+    "description": "Simple CMS Laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ageng",
+            "email": "ageng133@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cms\\Post\\": "src/",
+            "CmsController\\": "src/Controllers/",
+            "CmsModel\\": "src/Models/",
+            "CmsRequest\\": "src/Requests/",
+            "CmsServices\\": "src/ServiceRepository/"
+        }
+    }
+}
